@@ -1,0 +1,93 @@
+hr{
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+  border: 0;
+  margin-top: 60px;
+  display: block;
+}
+*{
+  border: solid 1px transparent;
+}
+body {
+  width:75%;
+  margin-left: 15%;
+}
+#iconbar{
+  float: right;
+}
+#topleft{
+  float:left;
+  height: 50px;
+  padding: 0;
+}
+#delicious{
+  display: inline-block;
+  float: left;
+  font-size: 20px;
+  font-style: italic;
+	font-weight: bolder;
+}
+.subHead{
+  color: grey;
+  font-size: 8px;
+}
+.center{
+  color: grey;
+  font-size: 8px;
+	text-align: center;
+}
+#logo{
+  float: left;
+}
+#print{
+  float: right;
+}
+h1 {
+  margin-bottom: 2px;
+}
+#choco{
+  width: 100%;
+  height: auto;
+}
+#ingredients{
+  position: relative;
+  width: 100%;
+}
+#rightCol{
+	float:right;
+  position: absolute;
+   top: 10px;
+   left: 0;
+   width: 49%;
+	 display: block;
+
+}
+#leftCol{
+	float: left;
+  position: absolute;
+   top: 10px;
+   left: 0;
+   width: 49%;
+	display: block;
+}
+#listbg{
+	width: 100%;
+}
+#vanpic{
+	display: inline;
+	float:left;
+}
+#van{
+	font-weight: bolder;
+	margin: 4px;
+}
+#bio{
+	padding: 0px;
+}
+#smalllogo{
+	margin-left: 45%;
+	display: block;
+}
+.center{
+	text-align: center;
+}
